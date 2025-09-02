@@ -1,0 +1,40 @@
+{
+	"Frames" : 
+	[
+		{
+			"Offset" : "0.0 0.0",
+			"Rect" : "0 1 31 16"
+		},
+		{
+			"Offset" : "0.0 0.0",
+			"Rect" : "5 0 21 16"
+		},
+		{
+			"Offset" : "0.0 0.0",
+			"Rect" : "0 19 26 32"
+		},
+		{
+			"Offset" : "0.0 2.0",
+			"Rect" : "37 0 49 12"
+		},
+		{
+			"Offset" : "0.0 2.0",
+			"Rect" : "50 0 62 12"
+		},
+		{
+			"Offset" : "0.0 2.0",
+			"Rect" : "63 0 75 12"
+		},
+		{
+			"Offset" : "0.0 2.0",
+			"Rect" : "76 0 88 12"
+		},
+		{
+			"Offset" : "0.0 2.0",
+			"Rect" : "89 0 101 12"
+		}
+	],
+	"NamedAnimations" : null,
+	"SubPositions" : "",
+	"Version" : "Neoarc's Sprite v2.0"
+}
